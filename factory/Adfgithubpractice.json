@@ -1,0 +1,9 @@
+{
+	"name": "Adfgithubpractice",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3897495-794a-46d9-8e10-40c7b7a9881c",
+		"tenantId": "7087380d-4fad-4c6c-9c07-49a8ab220e50"
+	}
+}
