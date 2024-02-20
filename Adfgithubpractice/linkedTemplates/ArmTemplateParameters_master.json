@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "Adfgithubpractice"
 		},
+		"AzureBlobStorage11_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
