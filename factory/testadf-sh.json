@@ -1,0 +1,9 @@
+{
+	"name": "testadf-sh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a507544e-d8fb-4a57-b8e6-04b8647a8393",
+		"tenantId": "42f263e3-0903-42f0-9312-1f4763ddc634"
+	}
+}
